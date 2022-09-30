@@ -7,7 +7,7 @@ import axios from "axios";
 import Loader from "components/Loader/Loader";
 import ModalPic from "components/Modal/Modal";
 import { ToastContainer, toast } from 'react-toastify';
-  import 'react-toastify/dist/ReactToastify.css';
+import 'react-toastify/dist/ReactToastify.css';
 
 const KEY = "29175258-0e972b66084e1db5719a62740"
 const perPage = "12"
